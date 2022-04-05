@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="262174b9-dba1-41ec-9da9-80faef3a60f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Communicator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Communicator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communicator.h" beforeDir="false" afterPath="$PROJECT_DIR$/Communicator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IRequestHandler.h" beforeDir="false" afterPath="$PROJECT_DIR$/IRequestHandler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JsonResponsePacketSerializer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/JsonResponsePacketSerializer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JsonResponsePacketSerializer.h" beforeDir="false" afterPath="$PROJECT_DIR$/JsonResponsePacketSerializer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Room.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Room.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Room.h" beforeDir="false" afterPath="$PROJECT_DIR$/Room.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoomManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/RoomManager.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoomManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/RoomManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trivia.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Trivia.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trivia.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Trivia.vcxproj.filters" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sRi5Y2WdvWX3hxDaKEC0L1mbEi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Trivia_py" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="262174b9-dba1-41ec-9da9-80faef3a60f4" name="Default Changelist" comment="" />
+      <created>1620841620014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620841620014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1620841641649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620841641649" />
+  </component>
+</project>
